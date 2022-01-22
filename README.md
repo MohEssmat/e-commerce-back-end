@@ -7,6 +7,10 @@
 This app is the backend portion of an E-Commerce website. Express.js was used for the server and MySQL for the database along with Sequelize as the ORM to run SQL models and queries.
 The SQL database includes tables for products, categories, tags, and product tags. RESTful API routes are used to make requests and updates from the database which are joined through Sequelize queries.
 
+💻 Below is a video of the application:
+
+![e-commerce-back-end](./assets/E-Commerce-back-end.gif)
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -41,7 +45,7 @@ If you have any specific questions about this project, please contact me at <moh
 ## Links
 
 - **[GitHub Repo](https://github.com/MohEssmat/e-commerce-back-end/)**
-- **[Video Walkthrough](https://drive.google.com/file/d/1CxkBF5UchWjCiAh7Bag0teD1tRgqRUgn/view?usp=sharing)**
+- **[Video Walkthrough](https://drive.google.com/file/d/1OmpKh1J5jcydXB9eTyHUCN6OCcRRM0rs/view?usp=sharing)**
 
 ## License
 
