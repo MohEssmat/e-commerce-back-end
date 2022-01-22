@@ -41,7 +41,7 @@ If you have any specific questions about this project, please contact me at <moh
 ## Links
 
 - **[GitHub Repo](https://github.com/MohEssmat/e-commerce-back-end/)**
-- **[Video Walkthrough]()**
+- **[Video Walkthrough](https://drive.google.com/file/d/1CxkBF5UchWjCiAh7Bag0teD1tRgqRUgn/view?usp=sharing)**
 
 ## License
 
